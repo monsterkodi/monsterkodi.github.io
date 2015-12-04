@@ -11,10 +11,14 @@ layout: default
 
 [![turtle](img/turtle.png)](./password-turtle)
 
+### knix
+
+[![knix](img/knix.png)](./knix)
+
 ### krkkl
 
 [![krrkl](img/krkkl.png)](https://github.com/monsterkodi/krkkl/)
 
-### knix
+### color-ls
 
-[![knix](img/knix.png)](./knix)
+[![color-ls](img/color-ls.png)](https://github.com/monsterkodi/color-ls/)

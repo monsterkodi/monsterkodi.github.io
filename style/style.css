@@ -76,12 +76,12 @@ img {
 }
 #krkkl,
 .krkkl {
-  color: #008000;
+  color: #f00;
 }
 #krkkl:hover,
 .krkkl:hover,
 .krkkl:focus {
-  color: #3f3;
+  color: #ffa500;
 }
 #knix,
 .knix {
@@ -91,6 +91,15 @@ img {
 .knix:hover,
 .knix:focus {
   color: #fff;
+}
+#color-ls,
+.c-ls {
+  color: #008000;
+}
+#color-ls:hover,
+.c-ls:hover,
+.c-ls:focus {
+  color: #3f3;
 }
 #downloads .btn {
   display: inline-block;
