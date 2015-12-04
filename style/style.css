@@ -128,13 +128,12 @@ h6 {
   color: #88f;
 }
 h1 {
-  color: #ffa500;
   font-size: 42px;
   -webkit-font-smoothing: antialiased;
   text-shadow: 0 1px 1px rgba(0,0,0,0.1), 0 0 5px rgba(181,232,83,0.1), 0 0 10px rgba(181,232,83,0.1);
 }
 h1 a {
-  color: #efaf31;
+  color: #808080;
 }
 h1 a:hover,
 h1 a:focus {
