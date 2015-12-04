@@ -5,11 +5,11 @@ layout: default
 
 ### strudl
 
-[![strudl](img/strudl.png)](https://monsterkodi.github.com/strudl/)
+[![strudl](img/strudl.png)](https://github.com/monsterkodi/strudl/)
 
 ### password-turtle
 
-[![turtle](img/turtle.png)](https://monsterkodi.github.com/password-turtle/)
+[![turtle](img/turtle.png)](./password-turtle)
 
 ### krkkl
 
@@ -17,4 +17,4 @@ layout: default
 
 ### knix
 
-[![knix](img/knix.png)](https://github.com/monsterkodi/knix/)
+[![knix](img/knix.png)](./knix)
