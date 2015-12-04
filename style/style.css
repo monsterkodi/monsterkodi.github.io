@@ -101,6 +101,15 @@ img {
 .c-ls:focus {
   color: #3f3;
 }
+#sds,
+.sds {
+  color: #909;
+}
+#sds:hover,
+.sds:hover,
+.sds:focus {
+  color: #b3b;
+}
 #downloads .btn {
   display: inline-block;
   text-align: center;
