@@ -110,6 +110,15 @@ img {
 .sds:focus {
   color: #b3b;
 }
+#noon,
+.noon {
+  color: #990;
+}
+#noon:hover,
+.noon:hover,
+.noon:focus {
+  color: #bb3;
+}
 #downloads .btn {
   display: inline-block;
   text-align: center;
