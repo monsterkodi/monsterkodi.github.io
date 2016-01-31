@@ -56,6 +56,13 @@ img {
 .link {
   font-weight: bold;
 }
+/*
+*   0000000   0000000   000       0000000   00000000    0000000
+*  000       000   000  000      000   000  000   000  000     
+*  000       000   000  000      000   000  0000000    0000000 
+*  000       000   000  000      000   000  000   000       000
+*   0000000   0000000   0000000   0000000   000   000  0000000 
+*/
 #strudl,
 .strudl {
   color: #88f;
@@ -91,6 +98,15 @@ img {
 .knix:hover,
 .knix:focus {
   color: #fff;
+}
+#urtil,
+.urtil {
+  color: #f66;
+}
+#urtil:hover,
+.urtil:hover,
+.urtil:focus {
+  color: #a22;
 }
 #color-ls,
 .c-ls {
