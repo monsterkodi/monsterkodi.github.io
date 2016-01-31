@@ -34,7 +34,7 @@ module.exports = (grunt) ->
                 execOptions: 
                     maxBuffer: Infinity
             test: 
-                command: "open index.html"
+                command: "open _site/index.html"
             jekyll:
                 command: "bundle exec jekyll build"
                 
@@ -46,5 +46,5 @@ module.exports = (grunt) ->
     grunt.loadNpmTasks 'grunt-pepper'
     grunt.loadNpmTasks 'grunt-shell'
 
-    grunt.registerTask 'build',     [ 'clean', 'stylus', 'salt', 'shell:jekyll' ]
+    grunt.registerTask 'build',     [ 'clean', 'stylus', 'salt', 'shell:jekyll', 'shell:test' ]
     grunt.registerTask 'default',   [ 'build' ]

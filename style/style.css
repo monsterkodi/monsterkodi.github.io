@@ -101,6 +101,15 @@ img {
 .c-ls:focus {
   color: #3f3;
 }
+#colorcat,
+.colorcat {
+  color: #ff0;
+}
+#colorcat:hover,
+.colorcat:hover,
+.colorcat:focus {
+  color: #aa0;
+}
 #sds,
 .sds {
   color: #909;
@@ -118,6 +127,15 @@ img {
 .noon:hover,
 .noon:focus {
   color: #bb3;
+}
+#karg,
+.karg {
+  color: #999;
+}
+#karg:hover,
+.karg:hover,
+.karg:focus {
+  color: #bbb;
 }
 #downloads .btn {
   display: inline-block;
