@@ -1,4 +1,11 @@
 
+# https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/
+#
+# gem install bundler
+# bundle install     
+# grunt
+#
+
 module.exports = (grunt) ->
 
     grunt.initConfig
@@ -20,7 +27,7 @@ module.exports = (grunt) ->
                 compress: false
             compile:
                 files:
-                    'style/style.css':  ['style/style.styl']
+                    'css/style.css':  ['style/style.styl']
 
         watch:
             sources:
