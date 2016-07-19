@@ -67,6 +67,11 @@ img {
 .ko {
   color: #ff0;
 }
+#ko:hover,
+.ko:hover,
+.ko:focus {
+  color: #ff8;
+}
 #strudl,
 .strudl {
   color: #88f;
@@ -78,12 +83,12 @@ img {
 }
 #turtle,
 .turtle {
-  color: #ffa500;
+  color: #88f;
 }
 #turtle:hover,
 .turtle:hover,
 .turtle:focus {
-  color: #ff0;
+  color: #aaf;
 }
 #krkkl,
 .krkkl {
