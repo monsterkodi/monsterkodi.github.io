@@ -3,6 +3,7 @@
 #
 # gem install bundler
 # bundle install     
+# bundle update github-pages
 # grunt
 #
 
