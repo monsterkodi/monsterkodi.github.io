@@ -1,10 +1,13 @@
 
 # https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/
 #
+# (administrator cmd.exe)
+#
 # gem install bundler
 # bundle install     
 # bundle update github-pages
 # grunt
+#    or bundle exec jekyll build
 #
 
 module.exports = (grunt) ->

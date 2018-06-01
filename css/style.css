@@ -63,6 +63,15 @@ img {
 *  000       000   000  000      000   000  000   000       000
 *   0000000   0000000   0000000   0000000   000   000  0000000 
 */
+#kali,
+.kali {
+  color: #04f;
+}
+#kali:hover,
+.kali:hover,
+.kali:focus {
+  color: #08f;
+}
 #krix,
 .krix {
   color: #f40;
